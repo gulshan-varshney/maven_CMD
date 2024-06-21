@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-19T18:21:25Z" name="Default suite" finished-at="2024-06-19T18:21:25Z" duration-ms="45">
+    <groups>
+    </groups>
+    <test started-at="2024-06-19T18:21:25Z" name="Default test" finished-at="2024-06-19T18:21:25Z" duration-ms="45">
+      <class name="cmd.contactTest.ContactTest">
+        <test-method signature="createContact()[pri:0, instance:cmd.contactTest.ContactTest@12d2ce03]" started-at="2024-06-19T18:21:25Z" name="createContact" finished-at="2024-06-19T18:21:25Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+        <test-method signature="deleteContact()[pri:0, instance:cmd.contactTest.ContactTest@12d2ce03]" started-at="2024-06-19T18:21:25Z" name="deleteContact" finished-at="2024-06-19T18:21:25Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContact -->
+        <test-method signature="modifyContact()[pri:0, instance:cmd.contactTest.ContactTest@12d2ce03]" started-at="2024-06-19T18:21:25Z" name="modifyContact" finished-at="2024-06-19T18:21:25Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyContact -->
+      </class> <!-- cmd.contactTest.ContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
